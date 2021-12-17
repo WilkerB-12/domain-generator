@@ -1,0 +1,1 @@
+Ejercicio con la finalidad de generar dominios de forma automática.
